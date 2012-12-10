@@ -2,7 +2,7 @@
 
 Slides: https://speakerdeck.com/lupomontero/javascript-y-streams
 
-## Links
+## Notas
 
 ### Funciones
 
@@ -20,7 +20,7 @@ Slides: https://speakerdeck.com/lupomontero/javascript-y-streams
 
 ### Asinchronous I/O
 
-### JavaScript in a single threaded event loop
+### JavaScript en un "single-thread event loop"
 
 #### El browser / navegador
 
