@@ -1,6 +1,6 @@
 # Presentación @jsperu 10 Diciembre 2012
 
-Slides: https://speakerdeck.com/lupomontero/javascript-y-streams
+Slides: https://speakerdeck.com/lupomontero/javascript-streams
 
 ## Notas
 
