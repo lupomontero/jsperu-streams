@@ -2,11 +2,20 @@
 
 Slides: https://speakerdeck.com/lupomontero/javascript-streams
 
-## Notas
+## Links
+
+### Streams
+
+* [substack: Stream Handbook](https://github.com/substack/stream-handbook)
+* [felixge: nodejs-streams](http://felixge.s3.amazonaws.com/11/nodejs-streams.pdf)
+* [Documentación Oficial: Stream](http://nodejs.org/api/stream.html)
+* [mikeal: request](https://github.com/mikeal/request)
+* [dominictarr: JSONStream](https://github.com/dominictarr/JSONStream)
+* [LXJS 2012 - James Halliday - Harnessing The Awesome Power Of Streams](http://www.youtube.com/watch?v=lQAV3bPOYHo)
 
 ### Funciones
 
-* [YUI Theater "Douglas Crockford: "Crockford on JavaScript - Act III: Function the Ultimate (73 min.)](http://www.yuiblog.com/blog/2010/02/24/video-crockonjs-3///www.yuiblog.com/blog/2010/02/24/video-crockonjs-3/)
+* [YUI Theater "Douglas Crockford: "Crockford on JavaScript - Act III: Function the Ultimate (73 min.)](http://www.yuiblog.com/blog/2010/02/24/video-crockonjs-3/)
 * [Douglas Crockford: Prototypal Inheritance](http://javascript.crockford.com/prototypal.html)
 
 ### Lexical Scope
@@ -28,12 +37,4 @@ Slides: https://speakerdeck.com/lupomontero/javascript-streams
 
 * [Ryan Dahl: Original Node.js presentation](http://www.youtube.com/watch?v=ztspvPYybIY)
 
-### Streams
-
-* [substack: Stream Handbook](https://github.com/substack/stream-handbook)
-* [felixge: nodejs-streams](http://felixge.s3.amazonaws.com/11/nodejs-streams.pdf)
-* [Documentación Oficial: Stream](http://nodejs.org/api/stream.html)
-* [mikeal: request](https://github.com/mikeal/request)
-* [dominictarr: JSONStream](https://github.com/dominictarr/JSONStream)
-* [LXJS 2012 - James Halliday - Harnessing The Awesome Power Of Streams](http://www.youtube.com/watch?v=lQAV3bPOYHo)
 
